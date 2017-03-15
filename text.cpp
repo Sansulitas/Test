@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-  cout<<"Raman Sansul la chupa";
+  cout<<"Cani es homosexual";
   return 0;
 }
